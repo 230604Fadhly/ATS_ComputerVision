@@ -446,22 +446,3 @@ The project successfully:
 - Evaluates performance quantitatively
 
 This confirms that traditional computer vision methods remain effective for pattern recognition tasks.
-
----
-
-# 17. Author
-
-**Name:** 230604Fadhly  
-**Course:** ATS Computer Vision  
-**Semester:** Computer Vision Project  
-**Institution:** Universitas
-
----
-
-# 18. References
-
-- Dalal, N., & Triggs, B. (2005). Histograms of Oriented Gradients for Human Detection.
-- Scikit-learn Documentation
-- Scikit-image Documentation
-- EMNIST Dataset Documentation
-- KaggleHub Documentation
