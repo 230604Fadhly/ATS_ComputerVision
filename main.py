@@ -33,7 +33,12 @@ print("Dataset path:", path)
 
 csv_path = os.path.join(path, "emnist-letters-train.csv")
 
-data = pd.read_csv(csv_path, header=None)
+data = pd.read_csv(
+    csv_path,
+    header=None,
+    nrows=5000,
+    dtype=np.uint8
+)
 
 print("Dataset loaded successfully")
 
